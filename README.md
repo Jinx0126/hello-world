@@ -7,3 +7,6 @@ As a new programmer, I'd like to learn Python as my first step, I'll try my best
 
 # Edit on 2020/4/19
 Create a new repository named _Python-Basic_ , which is to record the process of learning Python. 
+
+# Edit on 2020/4/19
+Create a new repository named _Github-Learning_ , which is to record the process of learning how to use Github.
